@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata", "Kata\Kata.csproj", "{7B92B50E-7562-4495-B9AB-6BCD9723C899}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{B5D27CF1-9C3C-477C-A908-D037AE8624B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B92B50E-7562-4495-B9AB-6BCD9723C899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B92B50E-7562-4495-B9AB-6BCD9723C899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B92B50E-7562-4495-B9AB-6BCD9723C899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B92B50E-7562-4495-B9AB-6BCD9723C899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5D27CF1-9C3C-477C-A908-D037AE8624B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5D27CF1-9C3C-477C-A908-D037AE8624B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5D27CF1-9C3C-477C-A908-D037AE8624B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5D27CF1-9C3C-477C-A908-D037AE8624B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
